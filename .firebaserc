@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-hairdresser-salon-b353b": {
+      "hosting": {
+        "hairdresser-salon": [
+          "my-hairdresser-salon-b353b"
+        ]
+      }
+    }
+  }
+}
